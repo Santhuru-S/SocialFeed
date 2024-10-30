@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49178523453",
+    "project_id": "socialfeed-b4c67",
+    "storage_bucket": "socialfeed-b4c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49178523453:android:50865fdd20f1f305577754",
+        "android_client_info": {
+          "package_name": "com.socialfeed.socialfeed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOzvJSLhc5ON8ypGHmLu4OogInW6xiAjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
